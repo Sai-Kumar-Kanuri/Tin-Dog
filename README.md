@@ -9,3 +9,5 @@ https://sai-kumar-kanuri.github.io/Tin-Dog/
 ## ScreenShots:
 
 ![](/TD-1.png)
+![](/td-3.png)
+![](/TD-2.png)
