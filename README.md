@@ -8,4 +8,4 @@ https://sai-kumar-kanuri.github.io/Tin-Dog/
 
 ## ScreenShots:
 
-![](Tin-Dog/TD-1.png)
+![](/TD-1.png)
